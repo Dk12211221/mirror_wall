@@ -15,7 +15,7 @@ content.
 4. optimize the application for performance and user experience.
 5. enhance the knowledge and skills of IT students in mobile app development using Flutter.
 # Screen-shots
-<img src="https://github.com/user-attachments/assets/e6e2a2f3-1901-4173-bd54-3839f57bcb5a" alt="App Screenshot" width="200" height="400"/>
+<img src="github.com/user-attachments/assets/e6e2a2f3-1901-4173-bd54-3839f57bcb5a" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/b8afe3ad-fcde-44ce-9bae-ed8552c02ee8" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/92cfe710-8ab6-43e5-bbc6-8128d8c8c224" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/4d909bd6-1206-408b-86c5-0dab3b560b4d" alt="App Screenshot" width="200" height="400"/>
